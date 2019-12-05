@@ -8,7 +8,7 @@ chardet==3.0.4
 Click==7.0
 cryptography==2.7
 cycler==0.10.0
-Django==2.2.5
+Django==2.2.8
 django-modelcluster==4.4
 django-taggit==0.24.0
 django-treebeard==4.3
